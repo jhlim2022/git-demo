@@ -2,8 +2,6 @@
 
 This the first file in this repo.
 
-## Ipsum Below
-This is another line
+## Website Contents
 
-
-Testing 123
+1. index.html
